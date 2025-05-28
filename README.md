@@ -2,7 +2,7 @@
 
 **Computer Science Student | Machine Learning Enthusiast | Full-Stack Developer**
 
-📍 Madison, WI | 📧 asingal3@wisc.edu | 💼 [LinkedIn](https://linkedin.com/in/aadit-singal)
+📍 Madison, WI | 📧 asingal3@wisc.edu | 💼 [LinkedIn]([https://linkedin.com/in/aadit-singal](https://www.linkedin.com/in/aadit-singal-416693248/))
 
 ---
 
@@ -108,7 +108,6 @@ I'm always open to collaborating on interesting projects, especially in **Machin
 
 - 💬 Ask me about: **Python**, **Machine Learning**, **Web Development**, **AI/ML Research**
 - 📫 Reach me at: **asingal3@wisc.edu**
-- ⚡ Fun fact: I've built ML models that achieved **90%+ accuracy** in image recognition!
 
 ---
 
