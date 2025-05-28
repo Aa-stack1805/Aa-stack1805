@@ -86,14 +86,6 @@ Currently working as an **AI Analyst Intern at Ernst & Young**, where I'm develo
 
 ---
 
-## 📈 GitHub Stats
-
-![Aadit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aaditsingal&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aaditsingal&layout=compact&theme=radical)
-
----
-
 ## 🎓 Education & Learning
 
 **University of Wisconsin-Madison** - *Bachelor of Science in Computer Science* (2024-2027)
