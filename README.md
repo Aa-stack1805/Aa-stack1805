@@ -10,8 +10,6 @@
 
 I'm a passionate Computer Science student at the University of Wisconsin-Madison with a strong focus on **Machine Learning** and **AI**. I love building innovative solutions that solve real-world problems, from intelligent classification systems to modern web applications.
 
-Currently working as an **AI Analyst Intern at Ernst & Young**, where I'm developing cutting-edge RAG pipelines and LangGraph models for enhanced business intelligence.
-
 ---
 
 ## 🛠️ Tech Stack
